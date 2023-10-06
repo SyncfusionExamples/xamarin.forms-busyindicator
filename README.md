@@ -2,7 +2,9 @@
 
 This repository explains you the steps to configure a SfBusyIndicator control in a real-time scenario and also provides a walk-through on some of the customization features available in SfBusyIndicator control.
 
-# Getting Started with Chip sample
+For know more details about BusyIndicator: https://www.syncfusion.com/xamarin-ui-controls/xamarin-busy-indicator
+
+# Getting Started with Busy Indicator sample
 
 Step 1: Add the NuGet to the project and add the namespace as shown in the following code sample:
 
