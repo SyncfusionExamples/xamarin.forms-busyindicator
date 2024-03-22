@@ -4,7 +4,7 @@ This repository explains you the steps to configure a SfBusyIndicator control in
 
 For know more details about BusyIndicator: https://www.syncfusion.com/xamarin-ui-controls/xamarin-busy-indicator
 
-# Getting Started with Busy Indicator sample
+## Getting Started with Busy Indicator sample
 
 Step 1: Add the NuGet to the project and add the namespace as shown in the following code sample:
 
